@@ -8,3 +8,6 @@ Hi there, not much to speak of me, just a man trying to do what engineers are bo
   <img width="146" height="57" alt="image" src="https://github.com/user-attachments/assets/a68a4dca-b227-4c9e-8c0b-a48d3f5fa0a8" style="margin-right:20px;"/>
   <img width="200" height="57" alt="image" src="https://github.com/user-attachments/assets/1189df47-7be1-4ee1-b0a1-e4d36a81a038" />
 </p>
+
+### Detailed resume:
+[![GitHub release](https://img.shields.io/badge/View_Resume-alwin_varhgese-green)](https://docs.google.com/document/d/18-InUdMvHTLVdKnGyktMP7KBVL0yQTubRfik0VyOIMI/edit?usp=sharing)
