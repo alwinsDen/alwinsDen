@@ -1,6 +1,8 @@
 ## Life's good, if you do good.
 
-Hi there, not much to speak of me, just a man trying to do what engineers are born to do - _**CREATE**_
+Hi there, not much to speak of me, just a man trying to do what engineers are born to do - '_CREATE_. _BREAK_. _BUILD_'
+
+**In the beginning, God created the heavens and the earth.** - **_Genesis 1:1_**
 
 ### Ex-companies/programs - 
 <p>
