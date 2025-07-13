@@ -1,6 +1,6 @@
 ## Life's good, if you do good.
 
-Experience spanning across 4 startups, including open-source contribution to Meta's XROS felloship.
+Experience spanning across 4 startups, including open-source contribution to Meta's XR Open Source fellowship.
 
 **In the beginning, God created the heavens and the earth.** - **_Genesis 1:1_**
 
