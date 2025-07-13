@@ -1,6 +1,6 @@
 ## Life's good, if you do good.
 
-Hi there, not much to speak of me, just a man trying to do what engineers are born to do - '_CREATE_. _BREAK_. _BUILD_'
+Experience spanning across 4 startups, including open-source contribution to Meta's XROS felloship.
 
 **In the beginning, God created the heavens and the earth.** - **_Genesis 1:1_**
 
