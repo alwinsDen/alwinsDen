@@ -6,9 +6,7 @@ Experience spanning across 4 startups, including open-source contribution to Met
 
 ### Ex-companies/programs - 
 <p>
-  <img src="https://github.com/user-attachments/assets/cc5e9b99-f789-423f-8186-29ef47f917aa"  width="262" height="63" style="margin-right:20px;"/>
-  <img width="146" height="57" alt="image" src="https://github.com/user-attachments/assets/a68a4dca-b227-4c9e-8c0b-a48d3f5fa0a8" style="margin-right:20px;"/>
-  <img width="200" height="57" alt="image" src="https://github.com/user-attachments/assets/1189df47-7be1-4ee1-b0a1-e4d36a81a038" />
+  <img width="640" height="76" alt="image" src="https://github.com/user-attachments/assets/e0d8473e-ca23-4d74-ab2d-50a48dc4ef6f" />
 </p>
 
 ### Detailed resume:
