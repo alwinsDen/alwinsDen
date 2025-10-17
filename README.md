@@ -4,7 +4,7 @@ Experience spanning across 4 startups, including open-source contribution to Met
 
 **In the beginning, God created the heavens and the earth.** - **_Genesis 1:1_**
 
-### Ex-companies/programs - 
+### Ex-companies/open source - 
 <p>
   <img width="640" height="76" alt="image" src="https://github.com/user-attachments/assets/e0d8473e-ca23-4d74-ab2d-50a48dc4ef6f" />
 </p>
